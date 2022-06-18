@@ -1,2 +1,0 @@
-# Crevents
-html,tailwind css
